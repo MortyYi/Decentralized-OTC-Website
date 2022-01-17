@@ -62,23 +62,23 @@ You can copy the following parameters into your MetaMask network configuration
 Network
 ```key
 HAYEK
-``` 
+```
 RPC URL
 ```key
 https://rpc.hayek.link
-``` 
+```
 Chain ID
 ```key
 1000
-``` 
+```
 Symbol
 ```key
 HYK
-``` 
+```
 blockchain Explorer
 ```key
 https://explorer.hayek.link
-``` 
+```
 
 #### Add Binance Smart Chain to your wallet
 
@@ -87,23 +87,23 @@ https://explorer.hayek.link
 Network
 ```key
 Binance Smart Chain Mainnet
-``` 
+```
 RPC URL
 ```key
 https://bsc-dataseed1.binance.org
-``` 
+```
 Chain ID
 ```key
 56
-``` 
+```
 Symbol
 ```key
 BNB
-``` 
+```
 Blockchain Explorer
 ```key
 https://bscscan.com
-``` 
+```
 
 #### Add OKEx Chain(OEC) Network
 
@@ -112,23 +112,23 @@ https://bscscan.com
 Network
 ```key
 OKExChain Mainnet
-``` 
+```
 RPC URL
 ```key
 https://exchainrpc.okex.org
-``` 
+```
 Chain ID
 ```key
 66
-``` 
+```
 Symbol
 ```key
 OKT
-``` 
+```
 Blockchain Explorer
 ```key
 https://www.oklink.com/okexchain
-``` 
+```
 
 #### Add node in imToken
 
@@ -224,7 +224,7 @@ https://www.oklink.com/okexchain
 
 >Assets between orders and orders are isolated from each other: even for different orders from the same seller, the assets are independent of each other. When the court makes a judgment, it cannot dispose of the assets of order B when it judges order A.
 
-#### 订单编号
+#### Order Number
 
 >每一个订单,有一个唯一的数字编号.卖家在发布订单的时候，智能合约会自动给每一个订单分配一个唯一的订单编号。不需要卖家填写。
 
